@@ -3,7 +3,7 @@ Created on Jul 2, 2014
 
 @author: viejoemer
 
-How to determine the number of items that are in a dictionary in python?
+HowTo determine the number of items that are in a dictionary in python?
 
 ¿Cómo saber el numero de items que hay en un diccionario en python?
 
